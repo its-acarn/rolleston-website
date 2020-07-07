@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rolleston-website/static/css/main.53425a33.chunk.css",
+    "main.js": "/rolleston-website/static/js/main.ee9ca3eb.chunk.js",
+    "main.js.map": "/rolleston-website/static/js/main.ee9ca3eb.chunk.js.map",
+    "runtime-main.js": "/rolleston-website/static/js/runtime-main.99cbf4a6.js",
+    "runtime-main.js.map": "/rolleston-website/static/js/runtime-main.99cbf4a6.js.map",
+    "static/js/2.180d86fb.chunk.js": "/rolleston-website/static/js/2.180d86fb.chunk.js",
+    "static/js/2.180d86fb.chunk.js.map": "/rolleston-website/static/js/2.180d86fb.chunk.js.map",
+    "index.html": "/rolleston-website/index.html",
+    "precache-manifest.16e00c0e85bebc549d9d991167b9036e.js": "/rolleston-website/precache-manifest.16e00c0e85bebc549d9d991167b9036e.js",
+    "service-worker.js": "/rolleston-website/service-worker.js",
+    "static/css/main.53425a33.chunk.css.map": "/rolleston-website/static/css/main.53425a33.chunk.css.map",
+    "static/js/2.180d86fb.chunk.js.LICENSE.txt": "/rolleston-website/static/js/2.180d86fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99cbf4a6.js",
+    "static/js/2.180d86fb.chunk.js",
+    "static/css/main.53425a33.chunk.css",
+    "static/js/main.ee9ca3eb.chunk.js"
+  ]
+}
